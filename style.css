@@ -53,8 +53,6 @@ body {
     margin-right: 16px;
 }
 
-
-
 .main_content_title {
     color: #222;
     font-family: Lato;
@@ -226,11 +224,15 @@ body {
         gap: 39px;
     }
     
-    .bold {
-        font-size: 44px;
+    .main_left img{
+        width: 386px;
     }
     .main_content_title {
-        font-size: 36px;
+        font-size: 26px;
+    }
+    
+    .bold {
+        font-size: 44px;
     }
 
     .category {
