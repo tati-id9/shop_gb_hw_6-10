@@ -78,6 +78,7 @@ body {
     padding-bottom: 96px;
     display: grid;
     grid-template-columns: repeat(3, 360px);
+    justify-content: center;
     gap: 30px;
 }
 
@@ -234,7 +235,8 @@ body {
 
     .category {
         grid-template-columns: repeat(3, 231px);
-        padding-bottom: 110px
+        gap: 20px;
+        padding-bottom: 110px;
     }
 
     .featured_items_info {
@@ -243,6 +245,7 @@ body {
 
     .catalog {
         grid-template-columns: repeat(2, 360px);
+        gap: 16px;
         padding-bottom: 32px;
     }
     .featured_items {
