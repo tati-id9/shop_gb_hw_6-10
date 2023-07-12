@@ -234,9 +234,19 @@ body {
 
     .category {
         grid-template-columns: repeat(3, 231px);
+        padding-bottom: 110px
+    }
+
+    .featured_items_info {
+        padding-bottom: 73px;
     }
 
     .catalog {
         grid-template-columns: repeat(2, 360px);
+        padding-bottom: 32px;
     }
+    .featured_items {
+        padding-bottom: 70.5px;
+    }
+
 }
