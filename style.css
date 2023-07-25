@@ -239,7 +239,7 @@ body {
 }
 
 .btn:hover {
-    border: 3px solid transparent;
+    border: 2px solid transparent;
     color: #FFF;
     background-color:#FF6A6A;
     transition: all 0,3s;
@@ -394,43 +394,43 @@ body {
     gap: 7.29px;
     padding-top: 23px;
     padding-bottom: 24px;
-  }
+}
 
 .nav_footer_icons {
     position: relative;
-  }
+}
 
 .nav_footer_icon_background {
-    transition: all 5s;
-  }
+    transition: all 0.3s;
+}
 
 .nav_footer_icons_background:hover path {
     fill: #F16D7F;
-  }
+}
 
 .footer_icon1 {
     position: absolute;
     top: 8px;
     left: 10.93px;
-  }
+}
 
 .footer_icon2 {
     position: absolute;
     top: 8px;
     left: 7.95px;
-  }
+}
 
 .footer_icon3 {
     position: absolute;
     top: 8px;
     left: 9.93px;
-  }
+}
 
 .footer_icon4 {
     position: absolute;
     top: 8px;
     left: 7.95px;
-  }
+}
 
 @media (min-width: 768px) and (max-width: 1024px) {
     .center {
