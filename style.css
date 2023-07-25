@@ -351,7 +351,7 @@ body {
     font-size: 14px;
     font-weight: 400;
   }
-  .application_form_input_submit {
+  .application_form_submit {
     width: 100px;
     max-height: 49px;
     border: 0;
@@ -362,8 +362,9 @@ body {
     text-align: center;
     font-size: 14px;
     font-weight: 400;
+    transition: all 0.3s;
   }
-  .application_form_input_submit:hover {
+  .application_form_submit:hover {
     background-color: #FFF;
     color: #F16D7F;
     border-color: #F16D7F;
